@@ -20,7 +20,7 @@ library(deldir)
 #verificando os pacotes instalados
 (.packages())
 
-setwd("/Users/palpatine/Desktop/TCC_USP/basededados")
+setwd("/Users/roykapeniak/Desktop/TCC_USP/basededados")
 getwd()
 
 ####################################### ETAPA 1 ################################################### 
